@@ -42,6 +42,11 @@ ul.navbar li {
   border-right: 0.1em solid rgb(145, 145, 145)
 }
 
+ul.navbar li:hover {
+  background: lightslategrey;
+  border-right: 0.1em solid rgb(101, 101, 101);
+}
+
 ul.navbar a {
   text-decoration: none 
 }
