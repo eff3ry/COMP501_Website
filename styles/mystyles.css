@@ -43,7 +43,7 @@
   }
 
   ul.navbar li:hover {
-    background: rgb(199, 199, 199);
+    background: lightslategrey;
     border-right: 0.1em solid rgb(101, 101, 101);
   }
 
